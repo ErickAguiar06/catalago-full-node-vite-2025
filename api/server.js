@@ -9,4 +9,4 @@ app.use(express.json());
 
 app.listen(port, () => {
     console.log(`API respondendo em http://localhost:${port}`);
-});
+}); 
